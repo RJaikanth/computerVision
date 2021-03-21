@@ -190,3 +190,20 @@ cython_debug/
 *.exe
 *.out
 *.app
+
+
+##################################################################################################################################################
+# VSCode
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+
+
